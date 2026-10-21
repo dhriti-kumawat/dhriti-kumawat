@@ -1,6 +1,6 @@
 Senior software engineer specialising in **CRO and experimentation**. I turn funnel drop-offs into A/B, multivariate and personalisation tests on Optimizely and AB Tasty, and ship the winners as product features.
 
-**200+ experiments · 40+ winners shipped · 10–25% engagement lift**
+**200+ experiments · 50+ winners shipped · 10–25% engagement lift**
 
 Building [Splitcraft](https://github.com/dhriti-kumawat/splitcraft), an A/B testing platform from scratch, and [Haulbook](https://haulbook.vercel.app/), a tracker for creators ([case study](https://dhritikumawat.vercel.app/case-studies/haulbook/)). [Portfolio](https://dhritikumawat.vercel.app/) · [Writing](https://dhritikumawat.vercel.app/writing/) · [LinkedIn](https://www.linkedin.com/in/dhritikumawat/)
 
