@@ -8,7 +8,7 @@ Currently building [Splitcraft](https://github.com/dhriti-kumawat/splitcraft), a
 
 ### Recent work
 <!-- recent_work starts -->
-* [splitcraft](https://github.com/dhriti-kumawat/splitcraft) - 2026-10-21
+* [splitcraft](https://github.com/dhriti-kumawat/splitcraft) - 2026-10-17
 * [Haulbook (private)](https://haulbook.vercel.app/)
 <!-- recent_work ends -->
 
@@ -28,7 +28,9 @@ More on [my site](https://dhritikumawat.vercel.app/writing/)
 <!-- experiments starts -->
 * [Consolidating a multi-step checkout into one page](https://dhritikumawat.vercel.app/experiments/single-page-checkout/)
 * [A test programme behind a full product page redesign](https://dhritikumawat.vercel.app/experiments/product-page-redesign/)
-* [A reusable personalisation template](https://dhritikumawat.vercel.app/experiments/personalisation-template/)
+* [Trending trips the moment search opens](https://dhritikumawat.vercel.app/experiments/trending-trips-in-search/)
+* [Sticky Book Now button](https://dhritikumawat.vercel.app/experiments/sticky-book-now/)
+* [Offer traffic straight to the deal](https://dhritikumawat.vercel.app/experiments/offer-traffic-to-deals/)
 <!-- experiments ends -->
 
 More [experiments](https://dhritikumawat.vercel.app/experiments/)
