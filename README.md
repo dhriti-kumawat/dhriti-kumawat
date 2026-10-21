@@ -36,4 +36,4 @@ More on [my site](https://dhritikumawat.vercel.app/writing/)
 More [experiments](https://dhritikumawat.vercel.app/experiments/)
 </td></tr></table>
 
-<sub>This README updates itself every day with a GitHub Action, inspired by [Simon Willison's profile](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).</sub>
+<sub>Updates daily via GitHub Actions</sub>
